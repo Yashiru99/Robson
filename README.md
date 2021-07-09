@@ -1,7 +1,3 @@
----
-title: 'Robson'
-disqus: hackmd
----
 
 Robson
 ===
