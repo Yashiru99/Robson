@@ -1,9 +1,6 @@
 
 Robson
 ===
-
-[TOC]
-
 ## Opis działania programu
 
 Program zaliczeniowy na przedmiot: Programowanie Obiektowe prowadzonym w semestrze letnim 2020/2021. Celem było stworzenie interpretera języka ROBSON w całości
