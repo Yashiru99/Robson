@@ -49,8 +49,8 @@ Dla takiego programu napisanego w Robsonie wyjściowy program powinien zwrócić
 
 ## Zakończenie
 
-:::info
+
 **Zachęcam do zadawania pytań i zostawiania uwag!**
-:::
+
 
 ###### tags: `Documentation`
